@@ -1,6 +1,6 @@
 # Hudson Woolford
 
-🎯 **IB Student | Aspiring Software Engineer | AI & Natural Language Processing | Game Developer**
+🎯 **IB Student | AI & Natural Language Processing | Game Developer**
 
 I'm an International Baccalaureate student from Sydney with a passion for **computer science, software engineering, and applied physics**.  
 My work spans **natural language processing**, **game development**, and **embedded systems.**
