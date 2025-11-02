@@ -4,6 +4,7 @@
 
 I'm an International Baccalaureate student from Sydney with a passion for **computer science, software engineering, and applied physics**.  
 My work spans **natural language processing**, **game development**, and **embedded systems.**
+
 ---
 
 ## 🧠 Technical Skills
