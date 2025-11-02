@@ -3,8 +3,7 @@
 🎯 **IB Student | Aspiring Software Engineer | AI & Natural Language Processing | Game Developer**
 
 I'm an International Baccalaureate student from Sydney with a passion for **computer science, software engineering, and applied physics**.  
-My work spans **natural language processing**, **game development**, and **embedded systems** — always aiming to build things that are both technically deep and creatively fun.
-
+My work spans **natural language processing**, **game development**, and **embedded systems.**
 ---
 
 ## 🧠 Technical Skills
