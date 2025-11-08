@@ -23,7 +23,7 @@ Exhibited at **PyCon AU 2025**, this project uses natural language processing to
 Hosted on a **Raspberry Pi** through a **Cloudflare tunnel**, combining embedded systems and web technologies.
 
 ### [🪐 Swingularity](https://store.steampowered.com/app/3272450/Swingularity/)
-![Golf Reimagined](assets/GolfReimagined.gif)
+![Golf Reimagined](assets/SwingularityShort.gif)
 > ⛳ *Physics-based golf in space*  
 🏆 **First Place – Australian STEM Video Game Challenge (2024)**  
 Developed a full-featured Unity game with custom physics, creative mechanics, and Steam release — raising funds for charity.
@@ -51,7 +51,9 @@ Designed complex level systems and unique environmental interactions using Unity
 - *Academic Excellence & Head’s List (2023–25)* | *Distinction in Honours Curriculum (2024)*  
 
 **University of Sydney** – *INFO1110: Introduction to Programming (2025)*  
-- Awarded **Fellowship for talented high school computer science students**
+- Fellowship for talented high school computer science students
+- Awarded **Excellence in Scientific Enquiry** for project: *AI Ego? Confidence vs Correctness in EvalPlus*
+
 
 ---
 
