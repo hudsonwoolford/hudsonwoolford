@@ -23,6 +23,7 @@ Exhibited at **PyCon AU 2025**, this project uses natural language processing to
 Hosted on a **Raspberry Pi** through a **Cloudflare tunnel**, combining embedded systems and web technologies.
 
 ### [🪐 Swingularity](https://store.steampowered.com/app/3272450/Swingularity/)
+![Golf Reimagined](assets/GolfReimagined.gif)
 > ⛳ *Physics-based golf in space*  
 🏆 **First Place – Australian STEM Video Game Challenge (2024)**  
 Developed a full-featured Unity game with custom physics, creative mechanics, and Steam release — raising funds for charity.
